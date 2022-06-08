@@ -51,14 +51,26 @@
   * Average Number Of Miles Used By Category
   * Average Number Of Miles Used By Purpose
 ###### Uber and Lyft (SQL & TABLEU) : Here is the [link](https://github.com/PathofJisu/Data-Analyst-Portfolio/tree/main/5.%20Uber%20and%20Lyft/)
-  * The Frequency By Category
-  * The Frequency By Purpose
-  * The Frequency Of Use Per Month
-  * Average Number Of Miles Used Per Month 
-  * The Frequency Of Use By Hour
-  * The Average Number Of Users In Hours
-  * Average Number Of Miles Used By Category
-  * Average Number Of Miles Used By Purpose
+  * The Frequency of Uber & Lyft use
+  * The Frequency of use according to weather
+  * Uber vs Lyft Total Revenue Comparison
+  * Total number of used miles of Uber and Lyft
+  * The Frequency of Use Per Hour
+  * Sales Price Per Hour
+  * Average number of miles used per Hour
+  * The Frequency of use of apps (Uber or Lyft) per Hour
+  * Most used apps by time
+  * Sales price according to weather
+  * Average number of miles used depending on weather
+  * The Frequency of application (Uber or Lyft) usage according to the weather
+  * Most used apps by weather
+  * The Frequency of use according to vehicle service type
+  * Sales price by vehicle service type
+  * Average number of miles used by vehicle service type
+  * The Frequency of application (Uber or Lyft) usage for vehicle service type
+  * Locations with the most destinations
+  * Locations with the most destinations in Uber App
+  * Locations with the most destinations in Lyft App
   
   
 
