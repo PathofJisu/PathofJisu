@@ -72,7 +72,12 @@
   * Locations with the most destinations in Uber App
   * Locations with the most destinations in Lyft App
   
-  
+  ## 📚 Capstone Projects
+  ###### San Francisco Affordable Housing Project (R) : Here is the [link](https://github.com/PathofJisu/Capstone-Project/tree/main/STAT%204052/)
+  * Description: This project's main goal was to find the best model for predicting and analyzing the probability of failure for future projects offering affordable housing in San Francisco. Before building proper models, missing values were replaced through imputation as part of the data cleaning process.  The best model was identified by utilizing machine learning models (Logistic regression, KNN, Decision Tree, Random Forest).
+  ###### San Francisco Affordable Housing Project (R) :
+
+
 
 
 
