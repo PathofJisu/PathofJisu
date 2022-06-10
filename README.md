@@ -75,13 +75,5 @@
   ## 📚 Capstone Projects
   ###### San Francisco Affordable Housing Project (R) : Here is the [link](https://github.com/PathofJisu/Capstone-Project/tree/main/STAT%204052/)
   * Description: This project's main goal was to find the best model for predicting and analyzing the probability of failure for future projects offering affordable housing in San Francisco. Before building proper models, missing values were replaced through imputation as part of the data cleaning process.  The best model was identified by utilizing machine learning models (Logistic regression, KNN, Decision Tree, Random Forest).
-  ###### San Francisco Affordable Housing Project (R) :
-
-
-
-
-
-
-
-
-
+  ###### 2022 Minnesota Gubernatorial Election Project (R) : Here is the [link](https://github.com/PathofJisu/Capstone-Project/tree/main/STAT%204893W/)
+  * Description: This project had the main purpose to find voters who have a high possibility to support Tim Walz since this project had scenario that the result will be utilized to promote Walz's campaign, and it was expected to increase participation in the campaign’s new events or speeches as micro-targeting strategy. Through using machine lerning (Ordinal Logistic Regression, Decision Tree, Random Forest), several models predicting potential Tim Walz supporters were created. The best model was idetified by comparing error rate from confusion matrices. 
