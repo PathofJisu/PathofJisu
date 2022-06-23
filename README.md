@@ -71,7 +71,11 @@
   * Locations with the most destinations
   * Locations with the most destinations in Uber App
   * Locations with the most destinations in Lyft App
-  
+###### Titanic (Python) : Here is the [link](https://github.com/PathofJisu/Data-Analyst-Portfolio/tree/main/6.%20Titanic/Python)
+  * Predict survival of passengers
+###### Spotify 2010-2019 (Python) : Here is the [link](https://github.com/PathofJisu/Data-Analyst-Portfolio/tree/main/7.%20Spotify%20(2010-2019)/Python)
+  * Predict top genre through Spotify list during 2010-2019
+
   ## 📚 Capstone Projects
   ###### San Francisco Affordable Housing Project (R) : Here is the [link](https://github.com/PathofJisu/Capstone-Project/tree/main/STAT%204052/)
   * Description: This project's main goal was to find the best model for predicting and analyzing the probability of failure for future projects offering affordable housing in San Francisco. Before building proper models, missing values were replaced through imputation as part of the data cleaning process.  The best model was identified by utilizing machine learning models (Logistic regression, KNN, Decision Tree, Random Forest).
