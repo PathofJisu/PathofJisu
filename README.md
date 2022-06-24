@@ -72,7 +72,8 @@
   * Locations with the most destinations in Uber App
   * Locations with the most destinations in Lyft App
 ###### Titanic (Python) : Here is the [link](https://github.com/PathofJisu/Data-Analyst-Portfolio/tree/main/6.%20Titanic/Python)
-  * Predict survival of passengers
+  * Analysis and visualization of what types of people survived the most from various aspects through the passenger information of the Titanic.
+  * Predict feature importance and survival probability based on the trained data through building an LGB (Light Gradient Boosting) machine learning         model with sklearn library 
 ###### Spotify 2010-2019 (Python) : Here is the [link](https://github.com/PathofJisu/Data-Analyst-Portfolio/tree/main/7.%20Spotify%20(2010-2019)/Python)
   * Predict top genre through Spotify list during 2010-2019
 
